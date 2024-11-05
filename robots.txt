@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://okoqeola.github.io/HrG/sitemap_index.txt
+Sitemap: https://okoqeola.github.io/gwD/sitemap_index.txt
+Sitemap: https://okoqeola.github.io/pIX/sitemap_index.txt
+Sitemap: https://okoqeola.github.io/vRf/sitemap_index.txt
